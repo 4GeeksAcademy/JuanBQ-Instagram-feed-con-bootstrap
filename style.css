@@ -1,0 +1,18 @@
+.container-fluid {
+    margin: auto;
+}
+
+.row {
+    justify-content: center;
+}
+
+.post {
+    width: 35rem;
+    border: 1px solid rgb(147, 146, 146);
+    margin: auto;
+}
+
+.mdl {
+    background: rgb(248, 249, 250);
+    border: 1px solid grey;
+}
